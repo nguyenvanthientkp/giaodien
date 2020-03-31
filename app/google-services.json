@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "878445373830",
+    "firebase_url": "https://daca-205b0.firebaseio.com",
+    "project_id": "daca-205b0",
+    "storage_bucket": "daca-205b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878445373830:android:ff5fbdf127c41bfed7a407",
+        "android_client_info": {
+          "package_name": "com.example.giaodien"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878445373830-deoan54bpdhq2t03r7d9a40q0th96hva.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.giaodien",
+            "certificate_hash": "244730303bc4498bebaf5447b8645277a94ff0d1"
+          }
+        },
+        {
+          "client_id": "878445373830-i6b6dtsor7v5iiohl5m8g6m4phcpie83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwlOtXrHeIHv_yNCpcdNi4duKX_JGSSsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878445373830-i6b6dtsor7v5iiohl5m8g6m4phcpie83.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
