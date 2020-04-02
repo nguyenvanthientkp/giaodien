@@ -109,7 +109,7 @@ public class Home extends Fragment {
     }
     public void initView(RecyclerView recyclerView){
         recyclerView.setHasFixedSize(true);
-        LinearLayoutManager layoutManager=new LinearLayoutManager(getActivity());
+        LinearLayoutManager layoutManager=new LinearLayoutManager(getActivity(),LinearLayoutManager.HORIZONTAL,false);
         recyclerView.setLayoutManager(layoutManager);
         ArrayList<data> arrayList=new ArrayList<>();
         arrayList.add(new data(R.drawable.led_on,"on","15°C","1am"));
